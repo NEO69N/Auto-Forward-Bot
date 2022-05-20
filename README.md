@@ -8,7 +8,7 @@ This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autofo
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEO69N/Auto-Forwad-bot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns_AnoNymouS/Auto-Forwad-bot/tree/main)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
